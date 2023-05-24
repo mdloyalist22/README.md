@@ -1,33 +1,21 @@
-# <div align="center">Hi, I'm 💁 a minimalist and linux enthusiast</div>
+# 💻 Language & Tools:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)&nbsp;
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)&nbsp;
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)&nbsp;
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### <div align="center">I use Arch Linux BTW 💪</div>
+# 📊 GitHub Stats:
+<p style="display: flex; justify-content: space-around">
+<img src="https://github-readme-stats.vercel.app/api?username=mdloyalist22&theme=nightowl&hide_border=false&rank_icon=github&include_all_commits=false&count_private=false" alt="mdloyalist22" width="47%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdloyalist22&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="languages" width="49%">
+</p>
 
-+ 🌱 I’m currently learning **Lua and Neovim**
-+ ❓ Ask me about **nothing** 
-+ ⚡ Fun fact: Use **super key** instead of windows key
+---
 
-### Languages and Tools
-<div align="left">
-<a href="https://www.linux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" height="48" style="margin: 10px" /></a>
-<br />
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="48" style="margin: 10px" /></a>
-<a href="https://github.com/nvim-neorg/neorg/wiki" target="_blank"><img src="https://raw.githubusercontent.com/nvim-neorg/neorg/main/res/neorg.svg" alt="neorg" height="48" style="margin: 10px" /></a>
-<a href="https://sqlite.org/index.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="48" style="margin: 10px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" height="48" style="margin: 10px" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" height="48" style="margin: 10px" /></a>
-<a href="https://www.lua.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/lua/lua-icon.svg" alt="lua" height="48" style="margin: 10px" /></a>
-<br />
-<a href="https://neovim.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" height="48" style="margin: 10px" /></a>
-<a href="https://codeberg.org/dnkl/foot/wiki" target="_blank"><img src="https://raw.githubusercontent.com/kovidgoyal/kitty/master/logo/kitty.svg" alt="kitty" height="48" style="margin: 10px" /></a>
-</div>
-
-### Connect with me
-<div align="left">
-<a href="https://github.com/mdloyalist22" target="_blank">
-<img src=https://img.shields.io/badge/github-%23784421.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 10px;" />
-</a>
-</div>
-
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mdloyalist22&theme=transparent&rank_icon=github&show_icons=true&hide_border=false&count_private=true" align="left" style="width: 60%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdloyalist22&theme=transparent&show_icons=true&hide_border=false&layout=compact" align="left" style="width: 40%" />
+> _I use Arch btw!_ 💪
